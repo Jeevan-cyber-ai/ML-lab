@@ -1,0 +1,17 @@
+STUDENT ACTIVITY REPORT
+
+Student ID   : S101
+Name         : Asha
+Total Logins : 1
+Submissions  : 0
+
+Student ID   : S102
+Name         : Ravi
+Total Logins : 0
+Submissions  : 1
+
+
+DAILY ACTIVITY STATISTICS
+
+2025-03-10 -> 2 activities
+2025-04-10 -> 1 activities
