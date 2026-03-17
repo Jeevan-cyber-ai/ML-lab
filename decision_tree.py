@@ -2,11 +2,11 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 import matplotlib.pyplot as plt
-# Sample dataset
+
 data = {
     'Hours': [2, 4, 5, 6, 8],
     'Attendance': [60, 65, 70, 75, 85],
-    'Result': [0, 0, 1, 1, 1]   # 0 = Fail, 1 = Pass
+    'Result': [0, 0, 1, 1, 1]   
 }
 
 df = pd.DataFrame(data)
